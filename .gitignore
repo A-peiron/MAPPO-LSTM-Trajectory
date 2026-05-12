@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Training outputs
+results/
+weights/
+plots_metrics_weight/
+training_log_metrics_weight*.txt
+
+# Docs / paper files
+docs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+
+# IDE
+.vscode/
+.idea/
