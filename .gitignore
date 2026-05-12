@@ -9,7 +9,7 @@ dist/
 build/
 
 # Training outputs
-results/
+results/*.txt
 weights/
 plots_metrics_weight/
 training_log_metrics_weight*.txt
